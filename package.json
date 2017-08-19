@@ -1,0 +1,28 @@
+{
+  "name": "generator-magikcraft",
+  "version": "1.0.0",
+  "description": "Yeoman generator for Magikcraft packages, lore, and mini-games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magikcraft/generator-magikcraft.git"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Magikcraft.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magikcraft/generator-magikcraft/issues"
+  },
+  "homepage": "https://github.com/Magikcraft/generator-magikcraft#readme",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
